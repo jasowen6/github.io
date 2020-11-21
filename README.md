@@ -4,8 +4,9 @@ You can use the [editor on GitHub](https://github.com/jasowen6/github.io/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Testing
-1-2-3!
+## To create a basic website
+- [ ] Add a theme
+- [ ] Add an index.md file with "Hello World" on it
 
 ### Markdown
 
