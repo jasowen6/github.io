@@ -13,7 +13,7 @@ I'm really excited to blog my journey on GitHub.com.
   {% endfor %}
 </ul>
 
-#Get in Touch
+# Get in Touch
 <ul>
 <li>
 <a href="https://twitter.com/{{ site.twitter_jasowen}}"Twitter</a>
